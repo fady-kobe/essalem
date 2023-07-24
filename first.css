@@ -1,0 +1,90 @@
+.logo{
+    width: 20%;
+}
+
+
+    
+    
+
+    
+
+.mo{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.bh{
+    display: flex;
+
+    
+}
+.layout{
+    
+    list-style: none;
+    font-size: large;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20vw;
+    margin-left: 20vw;
+    background-color: rgb(255, 255, 255);
+    position: sticky;
+}
+
+.image {
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   margin-top: 5%;
+}
+.phrase{
+    text-align: center;
+    color:
+        
+         #00b39b;
+    }
+.pi{
+    color: #00b39b;
+    margin-left: 5%;
+}
+.pr{
+    color: #00b39b;
+    margin-right: 5%;
+}
+.spaces{
+    justify-content: space-between;
+    display: flex;
+}
+.design{background-color: darkgreen;
+text-align: center;
+border-radius: 20%;}
+.designs{text-decoration: none;
+color:white;
+text-align: center;}
+.pictures{
+    background-color: cornflowerblue;
+    margin-right: 30%;
+    margin-left: 60%;
+}
+
+.card-container {
+gap: 40px;
+display:flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.second{
+    background-color: rgb(23, 23, 171);
+    text-align: center;
+    border-radius: 20%;
+}
+.third{background-color: navy;
+    text-align: center;
+    border-radius: 5%;
+}
+.fourth{color: white;}
+
+
+
+
